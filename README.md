@@ -55,7 +55,7 @@ Installing the libraries beforehand will solve most issues
 ## Authors
 
 Contributors names and contact info 
-ex. [@priyanshkedia04](https://github.com/priyanshkedia04)
+ex. [@aimaster-dev](https://github.com/aimaster-dev)
 
 ## Version History
 
