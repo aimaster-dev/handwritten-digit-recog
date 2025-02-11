@@ -32,7 +32,6 @@ Test Accuracy: 99.30%
 ### Installing
 
 * Download Jupyter Notebook
-
 * No further installation
 
 
